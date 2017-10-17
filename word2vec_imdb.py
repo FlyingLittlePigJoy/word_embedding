@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 13 16:41:30 2017
-
-@author: who
-"""
 
 from gensim.models.word2vec import Word2Vec, LineSentence
 from gensim import utils
